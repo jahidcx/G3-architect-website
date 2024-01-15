@@ -15,17 +15,20 @@
 .text-light-gray{
     color: #727272;
 }
+
+.section-title{
+    color: #131313;
+    font-size: 3rem;
+    font-weight: 700;
+    }
+    
 /* header styles */
 header{
     background-color: rgba(255, 144, 14, 0.10);
     padding: 50px 240px;
   
 }
-.headline{
-    color: #131313;
-    font-size: 3rem;
-    font-weight: 700;
-    }
+
 
     /* nav style  */
 
